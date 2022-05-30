@@ -1,1 +1,1 @@
-3. Display the content of the etc/password file and /etc/hosts.
+Display the content of /etc/passwd and /etc/hosts
