@@ -1,1 +1,1 @@
-0. write a script that prints "Hello, World", followed by a new line to the standard output.
+3. Display the content of the etc/password file and /etc/hosts.
